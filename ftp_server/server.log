@@ -1,0 +1,7 @@
+INFO:connections:[*] Ожидание подключений на 127.0.0.1:12345
+INFO:connections:[*] Принято подключение от 127.0.0.1:53374
+INFO:file_operations:Пользователь 'alexander' зарегистрирован. Создана рабочая директория.
+INFO:auth:Пользователь 'alexander' подключен с 127.0.0.1:53374
+INFO:connections:[*] Принято подключение от 127.0.0.1:45402
+INFO:auth:Пользователь 'alexander' подключен с 127.0.0.1:45402
+INFO:file_operations:Файл '/home/yeeeyoooduck/PycharmProjects/NetworkSystems/ftp_server/alexander/auth.txt' переименован в '/home/yeeeyoooduck/PycharmProjects/NetworkSystems/ftp_server/alexander/test.txt'

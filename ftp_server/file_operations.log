@@ -1,0 +1,2 @@
+2024-03-28 23:56:26,986 - file_operations - INFO - Пользователь 'alexander' зарегистрирован. Создана рабочая директория.
+2024-03-28 23:58:23,785 - file_operations - INFO - Файл '/home/yeeeyoooduck/PycharmProjects/NetworkSystems/ftp_server/alexander/auth.txt' переименован в '/home/yeeeyoooduck/PycharmProjects/NetworkSystems/ftp_server/alexander/test.txt'
